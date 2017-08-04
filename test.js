@@ -1,1 +1,2 @@
 // Woot
+console.log('OMG');
